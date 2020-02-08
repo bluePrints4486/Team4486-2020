@@ -21,6 +21,9 @@ public final class Constants {
     public static class MotorPorts{
         public static final int RIGHT = 0;
         public static final int LEFT = 1;
+        public static final int SHOOTER = 2;
+        public static final int HOPPER = 3;
+        
     
         
     }
@@ -28,6 +31,10 @@ public final class Constants {
         public static final int DRIVER_PORT = 0;
         public static final int THROTTLE_PORT = 1;
         public static final int MANIPULATOR_PORT = 2;
+        public static final int SHOOT_HIGH_BUTTON = 2;
+        public static final int SHOOT_LOW_BUTTON = 3;
+        public static final int HOPPER_FORWARD_BUTTON = 1;
+        public static final int HOPPER_REVERSE_BUTTON = 5;
     
         
     }
